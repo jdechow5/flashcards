@@ -1,0 +1,16 @@
+.card-title {
+  padding-top: 15px;
+  text-align: center;
+}
+
+.row {
+  margin-top:30px;
+}
+
+.card-body {
+  display:none;
+}
+
+/* #first-card {
+  display:none;
+} */
